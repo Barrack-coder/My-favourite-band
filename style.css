@@ -1,19 +1,46 @@
 
 .about img {
         width: 100%; 
-        height:100%
+        height:100%;
+        border-radius: 10px;
 }
 
 
-.artist img {width: 250px; height:250px} 
+.artist img {
+        width: 250px; 
+        height:250px;
+        border-radius: 10px;
+} 
 
-.artist {display: flex;}
-        .song{padding: 20px;}
+.artist {
+        display: flex;
+         padding: 20px;
+         border-radius: 10px;
+}
 
-.intro{width: 250px;height: 250px;}
+.intro img{
+        width: 250px;
+        height: 250px;
+        border-radius: 10px;
+}
 
-.p{font-weight: bold;font-size: 30px;}
+p{
+        font-weight: bold;
+        font-size: 30px;
+        letter-spacing: 2px;
+}
 
-\  h1{font-size: 40px;text-align: center;}
- body { background-color: rgb(222, 242, 245); }
-  .writer img{width: 250px;height: 250px;}
+\  h1{
+        font-size: 40px;
+        text-align: center;
+}
+ body { 
+         background-color: 
+         rgb(222, 242, 245); 
+}
+
+  .writer img{
+          width: 250px;
+          height: 250px;
+          border-radius: 10px;
+}
