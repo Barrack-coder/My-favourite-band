@@ -40,11 +40,11 @@ p{
  h1{
         font-size: 40px;
         text-align: center;
-        color: rgb(238, 170, 193);
+        color: rgb(18, 36, 112);
 }
 
 body {
-        background-image: linear-gradient(rgb(198, 214, 182),rgb(196, 196, 218));
+        background-image: linear-gradient(to right, rgb(233, 202, 235) , rgb(173, 189, 233));
         background-repeat: no-repeat, repeat;
         
 }
