@@ -18,11 +18,16 @@
          padding: 20px;
          border-radius: 10px;
 }
+.intro{
+        display: flex;
+        padding: 20px;
+}
 
 .intro img{
         width: 250px;
         height: 250px;
         border-radius: 10px;
+        
 }
 
 p{
@@ -44,4 +49,8 @@ p{
           width: 250px;
           height: 250px;
           border-radius: 10px;
+}
+.writer{
+        display: flex;
+        padding: 20px;
 }
