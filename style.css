@@ -42,9 +42,11 @@ p{
         text-align: center;
         color: rgb(238, 170, 193);
 }
- body { 
-         background-color: 
-         rgb(222, 242, 245); 
+
+body {
+        background-image: linear-gradient(rgb(198, 214, 182),rgb(196, 196, 218));
+        background-repeat: no-repeat, repeat;
+        
 }
 
   .writer img{
@@ -79,6 +81,7 @@ a:link {
        li{
               font-size: 30px;
                color: blue;
+               font-style: italic;
 }
 
         li>a href{
