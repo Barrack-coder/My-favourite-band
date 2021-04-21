@@ -40,7 +40,7 @@ p{
  h1{
         font-size: 40px;
         text-align: center;
-        color: rgb(240, 207, 218);
+        color: rgb(238, 170, 193);
 }
  body { 
          background-color: 
@@ -81,6 +81,6 @@ a:link {
                   
 }
 
-        li>a{
+        li>a href{
                 font-size: 30px;
         }
