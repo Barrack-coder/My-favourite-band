@@ -59,22 +59,22 @@ p{
 a:link {
         text-decoration: none;
         font-size: 15px;
-      }
+}
       
       a:visited {
         text-decoration: none;
-      }
+}
       
       a:hover {
         text-decoration: underline;
-      }
-      
+}
+
       a:active {
         text-decoration: underline;
         font-size: 15px;
-      }
+}
 
       
       ul>a{
               font-size: 30px;
-      }
+}
