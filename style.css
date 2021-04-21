@@ -37,9 +37,10 @@ p{
         padding: 30px;
 }
 
-\  h1{
+ h1{
         font-size: 40px;
         text-align: center;
+        color: rgb(240, 207, 218);
 }
  body { 
          background-color: 
@@ -75,6 +76,11 @@ a:link {
 }
 
       
-      ul>a{
+       li{
               font-size: 30px;
+                  
 }
+
+        li>a{
+                font-size: 30px;
+        }
